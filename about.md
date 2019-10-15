@@ -4,6 +4,7 @@ title: /dawson
 permalink: /about/
 ---
 
+# Dawson
 I'm a student and technologist living in Fort Collins, Colorado.
 <br />
 
