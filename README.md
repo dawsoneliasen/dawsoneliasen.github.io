@@ -1,3 +1,7 @@
+---
+permalink: /home
+---
+
 # dawsoneliasen.github.io
 Personal website
 
