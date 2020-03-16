@@ -5,5 +5,8 @@ header_pages:
   - about.md
   - projects.md
   - bookshelf.md
+  
+ignore:
+  - README.md
 
 footer: 'connect with me on <a href="https://twitter.com/@dawsoneliasen">twitter</a> <a href="https://linkedin.com/in/dawsoneliasen">linkedin</a>'
