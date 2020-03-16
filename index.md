@@ -1,7 +1,7 @@
 ---
 layout: page
 title: /
-permalink: /index.html/
+permalink: /home/
 ---
 
 # Welcome
