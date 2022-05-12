@@ -5,13 +5,9 @@ permalink: /about/
 ---
 
 # Dawson
-I'm a student and technologist living in Fort Collins, Colorado.
+I'm a Data Scientist based in Denver, Colorado.
 <br />
 
-I'm left handed, I type 100 words per minute, and I prefer my coffee black.
-<br />
+I've been working in data science for over three years. I worked at small research consultancy called Mountain Data Group for a while, doing all sorts of things including deep learning, inferential analyses, lots of visualizations, data processing systems, and much more. Now I'm working at [Theta](https://thetaclv.com), another research shop delivering statistical expertise in CLV and CBCV. I really love diving into data, tackling problems, investigating questions, creating beautiful visualizations and stories, and deploying elegant models and algorithms.
 
-I live in the lovely town of Fort Collins in northern Colorado with my beautiful girlfriend, Grace. My hobbies include reading, writing, programming, DotA 2, coffee, flyfishing, and ultimate frisbee. I'm studying data science at Colorado State University, and I am the founder of [the 4th Paradigm](http://www.the4thparadigm.com), an organization at CSU focused on giving students experience with collaborative problem solving using data-driven techniques.
-<br />
-
-I'm excited about the applications of data science. Currently, I'm an intern at a research consultancy called [Mountain Data Group](http://www.mountaindatagroup.com), contributing to data organization and machine learning (NLP). I'm also helping [COHA](http://www.ctsaonehealthalliance.org) build a network of databases for One Health research.
+I'm also a gamer™, craft coffee nerd, lover of [pretentious books](https://www.knowledgelost.org/100-pretentious-books-to-read-before-you-die/), and [casual writer](https://medium.com/@dawsoneliasen).
