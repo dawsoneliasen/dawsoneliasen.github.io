@@ -8,8 +8,10 @@ permalink: /bookshelf/
 I love books. These are some of my favorites.
 <br />
 
-- [Infinite Jest by David Foster Wallace](https://www.amazon.com/Infinite-Jest-David-Foster-Wallace/dp/0316066524)
-* [House of Leaves by Mark Z. Danielewski](https://www.amazon.com/House-Leaves-Mark-Z-Danielewski/dp/0375703764)
-- [The Book of Why by Judea Pearl and Dana MacKenzie](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X)
-- [The Soul's Code by James Hillman](https://www.amazon.com/Souls-Code-Search-Character-Calling/dp/0399180141/ref=sr_1_1?keywords=the+soul%27s+code&qid=1571093820&s=books&sr=1-1)
+- [Infinite Jest by David Foster Wallace](https://www.goodreads.com/book/show/25820255-infinite-jest)
+* [House of Leaves by Mark Z. Danielewski](https://www.goodreads.com/book/show/337907.House_of_Leaves)
+- [The Soul's Code by James Hillman](https://www.goodreads.com/book/show/970831.The_Soul_s_Code)
+- [Ficciones by Jorge Luis Borges](https://www.goodreads.com/book/show/426504.Ficciones)
+- [Consider the Lobster by David Foster Wallace](https://www.goodreads.com/book/show/6751.Consider_the_Lobster_and_Other_Essays)
+- [Notes from Underground by Fyodr Dostoevksy](https://www.goodreads.com/book/show/49455.Notes_from_Underground)
 

@@ -2,11 +2,10 @@ remote_theme: b2a3e8/jekyll-theme-console
 
 header_pages:
   - index.md
-  - about.md
   # - projects.md
   - bookshelf.md
   
 ignore:
   - README.md
 
-footer: 'connect with me on <a href="https://twitter.com/@dawsoneliasen">twitter</a> <a href="https://linkedin.com/in/dawsoneliasen">linkedin</a>'
+footer: 'find me on <a href="https://orbistertius.substack.com">Substack</a> <a href="https://github.com/dawsoneliasen">Github</a> <a href="https://linkedin.com/in/dawsoneliasen">LinkedIn</a>'
