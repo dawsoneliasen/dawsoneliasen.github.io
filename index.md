@@ -19,7 +19,7 @@ I've been doing data science stuff since college. I worked at small research con
 
 # Writing
 
-I have this casual writing habit. At [Orbis Tertius](https://orbistertius.substack.com), I write essays about esoterica, including but not limited to: mindfulness, literature, philosophy, futurism, work, and technology.
+I have a nasty writing habit. At [Orbis Tertius](https://orbistertius.substack.com), I write essays about esoterica, including but not limited to: mindfulness, literature, philosophy, futurism, work, and technology.
 <br />
 
 # etc.
