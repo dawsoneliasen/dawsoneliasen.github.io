@@ -19,9 +19,8 @@ I've been doing data science stuff since college. I worked at small research con
 
 # Writing
 
-I have a nasty writing habit. At [Orbis Tertius](https://orbistertius.substack.com), I write essays about esoterica, including but not limited to: mindfulness, literature, philosophy, futurism, work, and technology.
+I have a nasty writing habit. At [Orbis Tertius](https://orbistertius.substack.com), I write essays about eclectic esoterica, including but not limited to: mindfulness, literature, philosophy, futurism, work, and technology.
 <br />
 
-# etc.
-
-I'm also a gamer™, craft coffee nerd, lover of pretentious books, and a bit of a sneakerhead.
+# Book recommendations
+If you’re looking for a good book, take a look my [recommendations](https://bookshop.org/lists/dawson-s-top-fiction) on Bookshop. These are the books that I have found profoundly interesting and valuable. If you buy a book from that site, most of the revenue goes to support independent bookstores, and if you buy from my list, I get a little kickback, too. 
