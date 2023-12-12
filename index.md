@@ -6,12 +6,12 @@ permalink: /home/
 
 # Welcome
 
-Hi, my name is Dawson. I'm a Data Scientist based in Denver, Colorado.
+Hi, my name is Dawson. I'm a Data Scientist based in Colorado.
 <br />
 
 # Data Science
 
-I've been doing data science stuff since college. I worked at small research consultancy called Mountain Data Group for a while, doing all sorts of things including deep learning, inferential analyses, lots of visualizations, data processing systems, and much more. Now I'm working at [Theta](https://thetaclv.com), another small consulting shop delivering statistical expertise in CLV and CBCV. I really love diving into data, tackling problems, investigating questions, creating beautiful visualizations and stories, and deploying elegant models and algorithms.
+I've been working with data and machine learning since my sophomore year of college. Previously I have worked at small data science consultancies.  I really love diving into data, tackling problems, investigating questions, creating beautiful visualizations and stories, and deploying elegant models and algorithms.
 <br />
 
 # Writing
